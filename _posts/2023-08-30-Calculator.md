@@ -1,19 +1,17 @@
 ---
-toc: true
-comments: true
+toc: false
 layout: post
 title: Calculator
+comments: true
 description: A common way to become familiar with a language is to build a calculator.  This calculator shows off button with actions.
+permalink: /techtalk/home_style
+courses: { compsci: {week: 2} }
 type: hacks
-courses: { compsci: {week: 3} }
 ---
 
 <!-- 
 HTML implementation of the calculator. 
 -->
-
-{% include nav_home.html %}
-
 <!-- 
     Style and Action are aligned with HRML class definitions
     style.css contains majority of style definition (number, operation, clear, and equals)
