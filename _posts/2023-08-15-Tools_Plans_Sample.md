@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: ☆ Weekly Schedule ☆
+title: ☆ Weekly Schedule
 description: Example Blog!!!  This shows planning and notes from hacks.
 type: plans
 courses: { compsci: {week: 0} }
