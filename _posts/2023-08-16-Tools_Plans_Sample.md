@@ -6,6 +6,7 @@ title: ☆ Weekly Schedule
 description: Example Blog!!!  This shows planning and notes from hacks.
 type: plans
 courses: { compsci: {week: 0} }
+unit: 1
 ---
  
 # <code style="color: #4e804f">☆ Unit 1 / Week 0 ☆</code>
