@@ -6,7 +6,7 @@ comments: true
 description: A common way to become familiar with a language is to build a calculator.  This calculator shows off button with actions.
 permalink: /techtalk/home_style
 courses: { compsci: {week: 2} }
-type: hacks
+type: tangibles
 ---
 
 <!-- 
