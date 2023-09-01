@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: ☆ Activities
 description: Tools used during this week
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 0} }
 type: hacks
 unit: "1"
 ---
