@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Accomplishments
+title: ☆ Accomplishments
 description: What did we accomplish over the week? What did we learn?
 type: tangibles
 courses: { compsci: {week: 1} }
