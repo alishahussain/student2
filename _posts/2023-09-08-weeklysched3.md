@@ -33,3 +33,10 @@ unit: 1
 - Pair Showcases
 - prepare for ours
 
+> ### <code style="color:#4e804f;">☆ Plan for Pair Showcase ☆</code>
+- [ ]    be better presenters
+- [ ]    switch between ma and alara
+- [ ]    don't show everything, show what we are most proud of
+- [ ]    mine: snake, calculator, and my journey page
+- [ ]    Alara: Week plan, guessing word game, and javascript output table
+- [ ]    showcase why we feel it’s important, and how we went about doing it
