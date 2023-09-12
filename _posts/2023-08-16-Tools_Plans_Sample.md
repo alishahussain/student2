@@ -5,7 +5,7 @@ layout: post
 title: ☆ Weekly Schedule
 description: This is what we did in our first week (3 days) of comp sci
 type: plans
-courses: { compsci: {week: 0,} }
+courses: { compsci: {week: 0} }
 unit: 1
 ---
  
