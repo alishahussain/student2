@@ -13,7 +13,7 @@ unit: 1
 
 > ### <code style="color:#4e804f;">☆ Wednesday ☆</code>
 - Picked pair share partner: Alara Ipek 
-- Pick crossover pair: Tanvi M & Abby A
+- Pick crossover pair: Sharon K & ____
 - We talked and got to know everyone. We talked about why we are in this class, if we're interested in Comp Sci
 
 > ### <code style="color:#4e804f;">☆ Thursday ☆</code>
