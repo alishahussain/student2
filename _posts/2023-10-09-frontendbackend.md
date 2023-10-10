@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: ☆ Frontend, Backend, Deployment, and Ideation plans
+title: ☆ Plans
 type: plans
 courses: { compsci: {week: 7} }
 unit: 2
