@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: ☆ Trimester Reflection
-type: plans
+type: tangibles
 courses: { compsci: {week: 12} }
 unit: 3
 ---

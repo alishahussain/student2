@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: ☆ Review Ticket
-type: plans
+type: tangibles
 courses: { compsci: {week: 10} }
 unit: 3
 ---
