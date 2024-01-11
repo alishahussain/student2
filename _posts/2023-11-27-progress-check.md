@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: false
+title: ☆ Binary Logic Progress Check
 description:
 courses: { csp: {week: 13} }
 type: tangibles
