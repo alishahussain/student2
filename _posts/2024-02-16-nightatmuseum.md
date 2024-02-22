@@ -1,6 +1,5 @@
 ---
-toc: true
-comments: true
+comments: True
 layout: post
 title: ☆ Night At The Museum 
 type: tangibles
